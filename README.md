@@ -1,5 +1,12 @@
 # EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization
 
+
+NAME: MIRDULA D
+
+REGISTER NO. 212225040234
+
+
+
 ## AIM
 
 To analyze and compare the performance of various prompting techniques (**Zero-Shot, Few-Shot, Chain-of-Thought, and Role-Based Prompting**) across different AI platforms (**ChatGPT, Gemini, Claude AI, and Microsoft Copilot**) for the purpose of **text summarization**.
